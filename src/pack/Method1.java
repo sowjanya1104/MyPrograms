@@ -17,5 +17,11 @@ public class Method1 {
 	{
 		return message;
 	}
-
-}
+    public void method2()
+    {
+    	int a=10,b=4,c;
+    	c=a+b;
+    	
+    	System.out.println(c);
+    }
+    }
